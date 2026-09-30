@@ -1,0 +1,6 @@
+{
+  "name": "GRINE RESTAURANT POS",
+  "description": "Professional restaurant point of sale and kitchen display system for GRINE Restaurant with Algerian Dinar (DA) calculations, tables, inventory, KDS, and 58mm/80mm thermal receipt printing architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
